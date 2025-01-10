@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts"
+project = u"pycountspromaxulti"
 copyright = u"2025, Long Nguyen"
 author = u"Long Nguyen"
 
