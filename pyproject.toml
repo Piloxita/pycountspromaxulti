@@ -1,13 +1,14 @@
 [tool.poetry]
 name = "pycounts"
 version = "0.1.0"
-description = "Calculate word counts in atext file!"
+description = "Calculate word counts in a text file!"
 authors = ["Long Nguyen"]
 license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+matplotlib = "<3.10.0"
 
 
 [build-system]
