@@ -10,7 +10,7 @@ pip install pycountspromaxulti
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycountspromaxulti` can be used to count words in a text file and plot results
 as follows:
 
 ```python
@@ -37,7 +37,7 @@ of the MIT license.
 
 ## Credits
 
-`pycounts` was created with 
+`pycountspromaxulti` was created with 
 [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and 
 the `py-pkgs-cookiecutter` 
 [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
